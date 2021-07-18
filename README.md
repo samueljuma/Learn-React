@@ -10,7 +10,7 @@ Lets do React
 
 ## Junk Folder
 * [Use Tailwind for CSS][3]
-* [Get started on icons with font-awesome in React][4][Module not found resolved][5]
+* [Get started on icons with font-awesome in React][4] If module not found [Resolve][5]
 
 [1]: https://tecadmin.net/install-latest-nodejs-npm-on-linux-mint/
 [2]: https://tecadmin.net/install-yarn-debian/
