@@ -1,6 +1,6 @@
 import React from 'react'
 
-function HelloWorld(){
+function HelloWorld(name){
     return(
         <h1>
             Hello Juma
