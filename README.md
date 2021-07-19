@@ -14,6 +14,7 @@ Lets do React
 * [react-Spring][6]- for smooth transitions/animations
 * React router -change page content and url 
 	* `yarn add react-router-dom`
+* axios - a http library for network requests 
 
 [1]: https://tecadmin.net/install-latest-nodejs-npm-on-linux-mint/
 [2]: https://tecadmin.net/install-yarn-debian/

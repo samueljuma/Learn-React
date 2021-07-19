@@ -60,12 +60,12 @@ function Product(){
                 <h1 className="font-bold text-xl mb-1">
                     {product.data.name}
                 </h1>
-                {/* <div>
+                <div>
                     <img
                         src={product.data.imageUrl}
                         alt='img'
                     />
-                </div> */}
+                </div>
                 <div className="font-bold text-xl mb-3">
                     $ {product.data.price}
                 </div>
