@@ -1,6 +1,6 @@
 import React from 'react'
 
-function ContactUs(){
+ function ContactUs(){
     return(
         <div>
             <h1 className="font-bold text2xl mb-3">Contact Us</h1>
